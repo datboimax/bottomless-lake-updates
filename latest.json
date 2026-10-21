@@ -1,7 +1,7 @@
 {
-  "version": "0.28.0",
-  "file": "game-0.28.0.html",
-  "sha256": "b209a0375308b7115ea9e5984b0ba860ea00c3e2257e91721aca25850044d187",
-  "signature": "Nj3QkZc3uzSP/LhTRWp3q889M9ruUGhnNPaSmhZfzhCFxbe5zPaeSN8ffXaGrwfkeP7mNfSqnfAIDheJHVkLCQ==",
-  "notes": "Friend challenges (biggest fish, most fish, heaviest bag, race, species bingo) with prizes; separate reeling and fighting animations (the hand turns the crank); rod holders painted on friends' boats; friends now stand inside their boats from every angle."
+  "version": "0.29.0",
+  "file": "game-0.29.0.html",
+  "sha256": "14ab6ce08fa4eba0f1a4457da43c78fc37000b033f320f3f4a1e2eee76acc0a9",
+  "signature": "vKZX+o+88usN+GgWFcTnWtqh+iflzC8tYY5Ogfa3ion71d6v9bCDdsAkBmfQY/SvocG6abW4o6ecuI3huF88DQ==",
+  "notes": "Ride along in a friend's boat: ask from the T menu, they say yes (Y), fish from their boat when it's stopped, F to hop out near land (or swim for it). Room for one in the rowboat, two in the Bigger Boat and the sea boats. Everyone sees who's aboard, from above and in first person."
 }
