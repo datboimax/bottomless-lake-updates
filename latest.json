@@ -1,7 +1,7 @@
 {
-  "version": "0.25.0",
-  "file": "game-0.25.0.html",
-  "sha256": "38282850c1752b21a435527da0c16d9b29e0d5d48d5db78ed0c2387f342e375e",
-  "signature": "Z5N+5hKP8gcDDfYaCDpDfFYlmrnqlh4TrhsENN/DC4OWYtOGoG+hLBPFZikFq6sQbXwYztaz9/CZ2JAHgsAqDw==",
-  "notes": "Multiplayer! Host a game and send your friends the room code, or join theirs. See each other fishing, share the clock and weather."
+  "version": "0.25.1",
+  "file": "game-0.25.1.html",
+  "sha256": "9ed416b1095c654a6933249accfc34e405cbaa89e44fb2ee0a9de18b0e3f8d65",
+  "signature": "083BnhZVb4mu0BrDlQBQZqD8h4vNmE+L/73ulN/1LQM8mklJOMfwgKtMWUBp+4DdIRkVH3d77CeoNtqfSGlbBA==",
+  "notes": "Friends' boats look like the real thing (paint, canopy, lantern, rod holders, Bigger Boat, Sport-Fisher). Whatever you catch shows in your hands, held to suit its size. Reeling animation. Friends' 4x4s drawn properly."
 }
