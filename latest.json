@@ -1,7 +1,7 @@
 {
-  "version": "0.33.2",
-  "file": "game-0.33.2.html",
-  "sha256": "9def7ff9b0ccec355ffd9a7fa3eccfb4ac71113eeb27c820770c5791e4981223",
-  "signature": "5hsA7l4ndFYb8zwJWtVD2ZpCAL7dSJjs5/sKfsaCoyWUypgsFzL2InjsSuf+0ZihmdFua7t0TfGJrlH5ynMgAw==",
-  "notes": "The pier and the marina dock now have painted sides: pilings, cross-bracing and barnacles down to the water."
+  "version": "0.33.3",
+  "file": "game-0.33.3.html",
+  "sha256": "796d99c639af890e9b6ca22ca96168ca65491ba068da946caded7a0a0a96a609",
+  "signature": "jiahFNP9v8kpdE90t6tPmGkuRfKrlI9AO2u2LKNWyt7fuFSbt4mbFq8nNyKzWWh3JK5amLMWYbSRngFvYTkPCQ==",
+  "notes": "Grandpa's dock now has painted sides too: posts, braces and lake moss down to the water, with ripples round the posts."
 }
