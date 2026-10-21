@@ -1,7 +1,7 @@
 {
-  "version": "0.25.7",
-  "file": "game-0.25.7.html",
-  "sha256": "589cf695e7de8171a108e78fa2e9687f0b3f7f1f93d7c683406e6223ba17ed7c",
-  "signature": "79JMNbE7TcdtBuxMS5hBu34dssY5endrxfcj8u5pbY5M9m6rj3exWS1+vn+FdueLzsQHmJLIiuJjjHW5teCfCw==",
-  "notes": "Diagnostics pass: friends walk behind buildings and trees, shadows and wading for friends, friends hold their catch up from above, painted trophy cabin, banner/tide/HUD overlaps fixed, button labels, lobby tidy."
+  "version": "0.26.0",
+  "file": "game-0.26.0.html",
+  "sha256": "ab0ed974cb0efddb43c685bc9d4be4079741494b95a785d261ce2c683894aff2",
+  "signature": "PIbimoLuhnfkrJdIOsExqayJluJTsHbRFV0z6dmvJvXuIcP8vTGDSHm1dw9ydMEB22W2gYRX0G95rwef9xM7AQ==",
+  "notes": "Walk around Mae's shop and Cap'n Hal's! Browse the aisles, talk to Mae or Hal at the counter, see friends shopping too."
 }
