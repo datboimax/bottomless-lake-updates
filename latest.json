@@ -1,7 +1,7 @@
 {
-  "version": "0.25.3",
-  "file": "game-0.25.3.html",
-  "sha256": "fd7303b578fea6fbe4bf67c01094d6d4a784d5bae3615f331203119e833d5d9a",
-  "signature": "erS40E7ndXAeY8XvlKM0RAn0EB0/3Bf9NVxsW5YyMte357IpxMySM9VCkMSWugwapYH5JZQtYXXj937BWC9wAA==",
-  "notes": "Multiplayer: everyone has to be on the same version to play together (you're told to update if not)."
+  "version": "0.25.4",
+  "file": "game-0.25.4.html",
+  "sha256": "c4eaf843679902f0aae7e49822b2ced39b21059359063e4c5dfd1af2c663dddf",
+  "signature": "4Sa1cS6p8QWqeEx4ypuCp0F8zg05sanpvzP8XVgO9kRaxmWIQNkDIdgXXEfo9R6KhS6ZcrXR7y01UiQza+ZOAA==",
+  "notes": "Friends' boats use the real lantern and rod-holder art; boats leave a wake; friends indoors vanish from the lake; ice holes; seated at the tiller."
 }
