@@ -1,7 +1,7 @@
 {
-  "version": "0.26.0",
-  "file": "game-0.26.0.html",
-  "sha256": "ab0ed974cb0efddb43c685bc9d4be4079741494b95a785d261ce2c683894aff2",
-  "signature": "PIbimoLuhnfkrJdIOsExqayJluJTsHbRFV0z6dmvJvXuIcP8vTGDSHm1dw9ydMEB22W2gYRX0G95rwef9xM7AQ==",
-  "notes": "Walk around Mae's shop and Cap'n Hal's! Browse the aisles, talk to Mae or Hal at the counter, see friends shopping too."
+  "version": "0.27.0",
+  "file": "game-0.27.0.html",
+  "sha256": "e4c0e373b1ecff3bde48b5173e3fa1f65fefe49bcded531e47deac90dc580515",
+  "signature": "+Ojphc18SW6pOT956yP+q7CZb14j/hrxqVjlsoBC8VhmQlYxRsqMRjwivuuyaUdw6UOiX+9Aeu8uz7Oh2EXzCQ==",
+  "notes": "Gifts and trades! Stand next to a friend and press T: give them money, bait, lures, rods, reels, lines, hooks or parts, or trade (both accept, then it swaps)."
 }
