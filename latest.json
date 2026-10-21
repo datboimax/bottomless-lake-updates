@@ -1,7 +1,7 @@
 {
-  "version": "0.25.6",
-  "file": "game-0.25.6.html",
-  "sha256": "f49e030d21bea29e11a982a220bc6eb689d3966ba046c8b30fb28f2216c329a0",
-  "signature": "IJYFoiRLs8YLsVFgnCD7FwEYdEQg1hiPQHZdKOh96PLfNo2Jv2CGQ1iZclDaqvGNQwBG3f7YbLOXjwdIV4RRDA==",
-  "notes": "Painted wakes behind friends' and the regulars' boats; friends' fights splash with the same painted splashes as yours."
+  "version": "0.25.7",
+  "file": "game-0.25.7.html",
+  "sha256": "589cf695e7de8171a108e78fa2e9687f0b3f7f1f93d7c683406e6223ba17ed7c",
+  "signature": "79JMNbE7TcdtBuxMS5hBu34dssY5endrxfcj8u5pbY5M9m6rj3exWS1+vn+FdueLzsQHmJLIiuJjjHW5teCfCw==",
+  "notes": "Diagnostics pass: friends walk behind buildings and trees, shadows and wading for friends, friends hold their catch up from above, painted trophy cabin, banner/tide/HUD overlaps fixed, button labels, lobby tidy."
 }
