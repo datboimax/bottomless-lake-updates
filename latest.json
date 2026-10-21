@@ -1,7 +1,7 @@
 {
-  "version": "0.33.3",
-  "file": "game-0.33.3.html",
-  "sha256": "796d99c639af890e9b6ca22ca96168ca65491ba068da946caded7a0a0a96a609",
-  "signature": "jiahFNP9v8kpdE90t6tPmGkuRfKrlI9AO2u2LKNWyt7fuFSbt4mbFq8nNyKzWWh3JK5amLMWYbSRngFvYTkPCQ==",
-  "notes": "Grandpa's dock now has painted sides too: posts, braces and lake moss down to the water, with ripples round the posts."
+  "version": "0.33.4",
+  "file": "game-0.33.4.html",
+  "sha256": "d3c2f8c78f3ac7f814168ad7ba77b35467c5a13b5614f2c3395a8491a5564955",
+  "signature": "nrAAkjYA0zNkGAUDnfluYzNaAzvH6Su5k1hR1g9RpdC7TcFArum3wQ5IMqNVlfBO4NoLr32t00FO5NjfSZ1PAw==",
+  "notes": "Friends in the shops look like themselves now. A float or lure far out no longer jumps to your rod tip. If the host leaves, everyone keeps fishing and gets pulled back in when the host reopens the game (pause menu, Reopen game)."
 }
