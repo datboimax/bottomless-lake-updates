@@ -1,7 +1,7 @@
 {
-  "version": "0.25.4",
-  "file": "game-0.25.4.html",
-  "sha256": "c4eaf843679902f0aae7e49822b2ced39b21059359063e4c5dfd1af2c663dddf",
-  "signature": "4Sa1cS6p8QWqeEx4ypuCp0F8zg05sanpvzP8XVgO9kRaxmWIQNkDIdgXXEfo9R6KhS6ZcrXR7y01UiQza+ZOAA==",
-  "notes": "Friends' boats use the real lantern and rod-holder art; boats leave a wake; friends indoors vanish from the lake; ice holes; seated at the tiller."
+  "version": "0.25.5",
+  "file": "game-0.25.5.html",
+  "sha256": "29bc2b398ecc8a7ff6603cb321e7a815822ba4a5ca88b892e9008a9b0ea71254",
+  "signature": "yAa9NMecinzIUNM/pAaaoOmlOibQ7NUsGABdb2SZZUSmhbXjshBxI5IHCHVuHxBk/Do/C+3S8lrQA95H42WYAQ==",
+  "notes": "Friends stand inside their boats; lines come off their rod tips; real floats. Casts landing on a friend or their boat don't count. Room code in the pause menu; Rejoin after a dropped connection. Fixed your line running through your own boat when facing over the side."
 }
