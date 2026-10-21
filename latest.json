@@ -1,7 +1,7 @@
 {
-  "version": "0.33.1",
-  "file": "game-0.33.1.html",
-  "sha256": "bfbcc46fac807a240603690537c1563f7c28d5714d3bbe9b3e6ebd81619b497b",
-  "signature": "LZqeHzqLeZpNetLYBCqYsTXHzt5sg/f+6/jAzLsIlIlD2qb2QYap8XK3FZ5IpSQYtr8T675prTcU+D0sYwFwDw==",
-  "notes": "The pier's end posts no longer hover over the deck when you're standing on it."
+  "version": "0.33.2",
+  "file": "game-0.33.2.html",
+  "sha256": "9def7ff9b0ccec355ffd9a7fa3eccfb4ac71113eeb27c820770c5791e4981223",
+  "signature": "5hsA7l4ndFYb8zwJWtVD2ZpCAL7dSJjs5/sKfsaCoyWUypgsFzL2InjsSuf+0ZihmdFua7t0TfGJrlH5ynMgAw==",
+  "notes": "The pier and the marina dock now have painted sides: pilings, cross-bracing and barnacles down to the water."
 }
