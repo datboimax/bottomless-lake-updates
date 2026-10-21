@@ -1,7 +1,7 @@
 {
-  "version": "0.27.0",
-  "file": "game-0.27.0.html",
-  "sha256": "e4c0e373b1ecff3bde48b5173e3fa1f65fefe49bcded531e47deac90dc580515",
-  "signature": "+Ojphc18SW6pOT956yP+q7CZb14j/hrxqVjlsoBC8VhmQlYxRsqMRjwivuuyaUdw6UOiX+9Aeu8uz7Oh2EXzCQ==",
-  "notes": "Gifts and trades! Stand next to a friend and press T: give them money, bait, lures, rods, reels, lines, hooks or parts, or trade (both accept, then it swaps)."
+  "version": "0.28.0",
+  "file": "game-0.28.0.html",
+  "sha256": "b209a0375308b7115ea9e5984b0ba860ea00c3e2257e91721aca25850044d187",
+  "signature": "Nj3QkZc3uzSP/LhTRWp3q889M9ruUGhnNPaSmhZfzhCFxbe5zPaeSN8ffXaGrwfkeP7mNfSqnfAIDheJHVkLCQ==",
+  "notes": "Friend challenges (biggest fish, most fish, heaviest bag, race, species bingo) with prizes; separate reeling and fighting animations (the hand turns the crank); rod holders painted on friends' boats; friends now stand inside their boats from every angle."
 }
