@@ -1,7 +1,7 @@
 {
-  "version": "0.24.0",
-  "file": "game-0.24.0.html",
-  "sha256": "f6fb7af0f4b6daf9dda176d0f331fd70254543d66be2dc6cbd69f089424c0860",
-  "signature": "kkPUOvDnlw2zF6F4BXtH5dSmu7Rk9V30lCVCiP0eoib+725+5P/aH6qD8HcWstyz+0tgotSJYR+3s3+tLc05AA==",
-  "notes": "First desktop release with automatic updates and the twelve anglers"
+  "version": "0.25.0",
+  "file": "game-0.25.0.html",
+  "sha256": "38282850c1752b21a435527da0c16d9b29e0d5d48d5db78ed0c2387f342e375e",
+  "signature": "Z5N+5hKP8gcDDfYaCDpDfFYlmrnqlh4TrhsENN/DC4OWYtOGoG+hLBPFZikFq6sQbXwYztaz9/CZ2JAHgsAqDw==",
+  "notes": "Multiplayer! Host a game and send your friends the room code, or join theirs. See each other fishing, share the clock and weather."
 }
