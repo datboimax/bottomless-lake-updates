@@ -1,7 +1,7 @@
 {
-  "version": "0.29.0",
-  "file": "game-0.29.0.html",
-  "sha256": "14ab6ce08fa4eba0f1a4457da43c78fc37000b033f320f3f4a1e2eee76acc0a9",
-  "signature": "vKZX+o+88usN+GgWFcTnWtqh+iflzC8tYY5Ogfa3ion71d6v9bCDdsAkBmfQY/SvocG6abW4o6ecuI3huF88DQ==",
-  "notes": "Ride along in a friend's boat: ask from the T menu, they say yes (Y), fish from their boat when it's stopped, F to hop out near land (or swim for it). Room for one in the rowboat, two in the Bigger Boat and the sea boats. Everyone sees who's aboard, from above and in first person."
+  "version": "0.30.0",
+  "file": "game-0.30.0.html",
+  "sha256": "92ab90f3aa0231b958013833522998505c52832a3154438b9ddbfd1a85d8aa9a",
+  "signature": "59qIehZ8zeA74tK8iTkRACOM9DCQpmabIYHX0+R+yScA2A31KYPMMMd7zaZnCQmmbZ9VZrTPk5pUTVh63SOhCg==",
+  "notes": "Quick chat and emotes (V): wave, cheer and shout to friends. 24 achievements (pause menu), ready for Steam. Party fish: four huge fish that only come when friends fish together; press X to lend a friend a hand and share the prize."
 }
