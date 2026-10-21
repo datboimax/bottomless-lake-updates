@@ -1,7 +1,7 @@
 {
-  "version": "0.30.1",
-  "file": "game-0.30.1.html",
-  "sha256": "72f40385846762547c453c9513b1a0d7998e8c6aa355eb75d5e593aec01d8e65",
-  "signature": "FOgcQnbDqXN+4Zp27VFO8+eaI/NxSjgKLEJTruGKcffzAgprX6ef2XEn/s7R1YQdVC9UZqLPwffCB2F1CugTBQ==",
-  "notes": "Achievement badges fixed: every badge is whole and a clean circle."
+  "version": "0.30.2",
+  "file": "game-0.30.2.html",
+  "sha256": "2b65085f62aab6c4555ad52d474b2c8878d201a5a501094403e14f6a347f07dd",
+  "signature": "NWDd6Litkdl4Pe3WwVMcncIEkqCpAhBK7r5NXPm3kPfjjE2+bPQzizmyWEfovr/H/1Xs8L0F+9jg9312pOwUAg==",
+  "notes": "A new badge for the Legendary achievement."
 }
