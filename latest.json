@@ -1,7 +1,7 @@
 {
-  "version": "0.25.2",
-  "file": "game-0.25.2.html",
-  "sha256": "c5b8b1b5abe3c6c9614ab9477bcae57ed3a71d872d23d179ba596133254b1560",
-  "signature": "UY8FpaWg5E+lKNgHlBHsxGeaTOq5n7RYb4tQsxPKaOYoqnH4SgbW6aBgMIO/FNOn7pEWYLcgKOWm2r5xjvD7Ag==",
-  "notes": "Multiplayer: the whole world is open to everyone, no permits needed (singleplayer unchanged)."
+  "version": "0.25.3",
+  "file": "game-0.25.3.html",
+  "sha256": "fd7303b578fea6fbe4bf67c01094d6d4a784d5bae3615f331203119e833d5d9a",
+  "signature": "erS40E7ndXAeY8XvlKM0RAn0EB0/3Bf9NVxsW5YyMte357IpxMySM9VCkMSWugwapYH5JZQtYXXj937BWC9wAA==",
+  "notes": "Multiplayer: everyone has to be on the same version to play together (you're told to update if not)."
 }
