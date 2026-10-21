@@ -1,7 +1,7 @@
 {
-  "version": "0.30.0",
-  "file": "game-0.30.0.html",
-  "sha256": "92ab90f3aa0231b958013833522998505c52832a3154438b9ddbfd1a85d8aa9a",
-  "signature": "59qIehZ8zeA74tK8iTkRACOM9DCQpmabIYHX0+R+yScA2A31KYPMMMd7zaZnCQmmbZ9VZrTPk5pUTVh63SOhCg==",
-  "notes": "Quick chat and emotes (V): wave, cheer and shout to friends. 24 achievements (pause menu), ready for Steam. Party fish: four huge fish that only come when friends fish together; press X to lend a friend a hand and share the prize."
+  "version": "0.30.1",
+  "file": "game-0.30.1.html",
+  "sha256": "72f40385846762547c453c9513b1a0d7998e8c6aa355eb75d5e593aec01d8e65",
+  "signature": "FOgcQnbDqXN+4Zp27VFO8+eaI/NxSjgKLEJTruGKcffzAgprX6ef2XEn/s7R1YQdVC9UZqLPwffCB2F1CugTBQ==",
+  "notes": "Achievement badges fixed: every badge is whole and a clean circle."
 }
