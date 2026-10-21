@@ -1,7 +1,7 @@
 {
-  "version": "0.33.0",
-  "file": "game-0.33.0.html",
-  "sha256": "0c8d0c72776ce3227c4069d15bdc7bcc2810ec63083c91eeedcd9d97ce4c9987",
-  "signature": "laCwo4qP4OzSWiFKFjqtRErhwvojR1/B2Z03OQoNVoPjn0djZG0gxwBOfk8NU/TPIC1KDxlZWUcR+uVdc/y3Bw==",
-  "notes": "Smoother art everywhere: no more purple edges round pictures, things cast shadows and sit in the water, softer shores, stone walls on the canal, a painted Trophy Cabin, and the pier's posts rise through the deck."
+  "version": "0.33.1",
+  "file": "game-0.33.1.html",
+  "sha256": "bfbcc46fac807a240603690537c1563f7c28d5714d3bbe9b3e6ebd81619b497b",
+  "signature": "LZqeHzqLeZpNetLYBCqYsTXHzt5sg/f+6/jAzLsIlIlD2qb2QYap8XK3FZ5IpSQYtr8T675prTcU+D0sYwFwDw==",
+  "notes": "The pier's end posts no longer hover over the deck when you're standing on it."
 }
