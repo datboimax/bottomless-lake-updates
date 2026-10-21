@@ -1,7 +1,7 @@
 {
-  "version": "0.33.5",
-  "file": "game-0.33.5.html",
-  "sha256": "8e2724fae5d80e2a07ea16e21463dec1f11f0b4f03a717008eae967423fda52d",
-  "signature": "R93yradR85fYWg+fpkbFy3NovYRsra8pUDKfaCDyCVCZ0Xh5eubzwmDIYGplP4NeSHy+uOTyN2MAu2MMcXfgBQ==",
-  "notes": "New painted rods: every rod has its own look, with real guides and wraps, and grows straight out of the grip."
+  "version": "0.33.6",
+  "file": "game-0.33.6.html",
+  "sha256": "4e824c05de4419c0ddda971e5f2a178cc1f7ff1123601adecf054cc57a0912bb",
+  "signature": "9QmR6MErGSLAvzNgT0hoKkr1/Ycx+ASFJOacoYXPf7BzQeUsD91k8896aGiy6SBcb6kcc8c/s41EHJO9BpyUCw==",
+  "notes": "A big fish bolts from the boat twice at most now (and says so once). A brand new lawn flamingo. Pink and purple things keep their colours."
 }
