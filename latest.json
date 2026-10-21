@@ -1,7 +1,7 @@
 {
-  "version": "0.30.2",
-  "file": "game-0.30.2.html",
-  "sha256": "2b65085f62aab6c4555ad52d474b2c8878d201a5a501094403e14f6a347f07dd",
-  "signature": "NWDd6Litkdl4Pe3WwVMcncIEkqCpAhBK7r5NXPm3kPfjjE2+bPQzizmyWEfovr/H/1Xs8L0F+9jg9312pOwUAg==",
-  "notes": "A new badge for the Legendary achievement."
+  "version": "0.31.0",
+  "file": "game-0.31.0.html",
+  "sha256": "8a17d69d3f7600ead2a134edef2f1ad34a725cc87b37c923e2128b86c0e17d94",
+  "signature": "4tJ6CE1IaoD7P2YU7bHUeYYpFYucKU6sDEe76V8+2SMPXfRjI0pXL/miSnxkUl1KtCyY665olBoO333J3YdUAA==",
+  "notes": "Photo mode (P): hide the HUD, move the camera, pick the time of day, hide your hands, and SPACE saves a 1920x1080 picture."
 }
