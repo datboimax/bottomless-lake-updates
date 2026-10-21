@@ -1,7 +1,7 @@
 {
-  "version": "0.31.0",
-  "file": "game-0.31.0.html",
-  "sha256": "8a17d69d3f7600ead2a134edef2f1ad34a725cc87b37c923e2128b86c0e17d94",
-  "signature": "4tJ6CE1IaoD7P2YU7bHUeYYpFYucKU6sDEe76V8+2SMPXfRjI0pXL/miSnxkUl1KtCyY665olBoO333J3YdUAA==",
-  "notes": "Photo mode (P): hide the HUD, move the camera, pick the time of day, hide your hands, and SPACE saves a 1920x1080 picture."
+  "version": "0.32.0",
+  "file": "game-0.32.0.html",
+  "sha256": "5535be70429dec65759336334b52343ee5b9ab536733d7dff42e01deb54a150e",
+  "signature": "6jI52BeI/L5Dk5tXqA05VYVQB1CkvBbv5KHBajVYPs7I3TFbZGCnFdZnLhDo44LvRGmWC7iGx6fV9ssDbg1JBQ==",
+  "notes": "Mae's and Cap'n Hal's shops redrawn: cozy, close-up rooms with tidy aisles. With friends, Grandpa's letters and the keeper's bottles are shared: when anyone finds the next one, everyone moves on."
 }
