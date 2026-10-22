@@ -1,7 +1,7 @@
 {
-  "version": "0.33.9",
-  "file": "game-0.33.9.html",
-  "sha256": "81a19ecfcd2c2ec33838d9a8fc9291a4851d1ce28aba76e6d358da94cdb94a55",
-  "signature": "WuJ/qRRwNZk8zKyKKY4Za5TjZmRmTc5dRjjtu/fIpCyOY4M1aXLcFk+7hXg2JQW28pV+WB7IhdrSvuk3VJlYCg==",
-  "notes": "Your angler's skin and sleeves on the first-person hands, pier posts and rails, Frost Hollow's far shore, map and shop text fixes, softer boat foam, and more fixes from the visual check."
+  "version": "0.33.10",
+  "file": "game-0.33.10.html",
+  "sha256": "1e455ecbb3c327459fca575903ce187942124078bf62a33009ab1caf4c36ade1",
+  "signature": "QbA1oplzvxgtiq1lcjv2Z4p5D3b0LYRBzm121vj1en6XyGcgkPC8sBm2qALFwN+1UJnGNXeBECk6rO8PlHpsAg==",
+  "notes": "The jetty rebuilt: painted granite walkway, real boulders down its sides that line up as you walk, and the lighthouse on its own rock head off to the side."
 }
