@@ -1,7 +1,7 @@
 {
-  "version": "0.33.8",
-  "file": "game-0.33.8.html",
-  "sha256": "d36cd6e918544d943e6485e24deb18e18f5f00c95ddfd3366c3a23b36cb54f39",
-  "signature": "GrHj53fJGe39qtSREo+2LoXiMzGHNjxiubqb4hfZE/ahL3q9TSchq1Embfg9kSE/ISPH+hzk+nR1aAWkRgGEAA==",
-  "notes": "Every angler has a proper walk and a relaxed stand (rod put away) in the shops and when friends walk about. Shelves no longer hide your feet."
+  "version": "0.33.9",
+  "file": "game-0.33.9.html",
+  "sha256": "81a19ecfcd2c2ec33838d9a8fc9291a4851d1ce28aba76e6d358da94cdb94a55",
+  "signature": "WuJ/qRRwNZk8zKyKKY4Za5TjZmRmTc5dRjjtu/fIpCyOY4M1aXLcFk+7hXg2JQW28pV+WB7IhdrSvuk3VJlYCg==",
+  "notes": "Your angler's skin and sleeves on the first-person hands, pier posts and rails, Frost Hollow's far shore, map and shop text fixes, softer boat foam, and more fixes from the visual check."
 }
