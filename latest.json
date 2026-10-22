@@ -1,7 +1,7 @@
 {
-  "version": "0.33.11",
-  "file": "game-0.33.11.html",
-  "sha256": "cd6a45110dcc11ef3ceee04606c11c24abc9fa993b5cb4386030bdc6ff62e7d1",
-  "signature": "yWpjsJVvJAZW5ZrAVNOFLv+HGgY9QSz0ldZeiDoiPbv2NrBiWu1xF0S+GlYT2J6lAMeK5WHoi2Ne4uPED3+RBg==",
-  "notes": "Pick how your angler looks, then type your own name: it's what friends see over your head."
+  "version": "0.33.12",
+  "file": "game-0.33.12.html",
+  "sha256": "8f4df7c839cb28625d207385382dd8f140b496658cbb6b3aae1229870510e505",
+  "signature": "C8YkF/TdsuPX7U2c1nzICRtuNRXiSQLQtYqyJJOzi024MuWqT/nWmGvNhKgmqWrzLgDEn1UqveeN+mFiyII/Bw==",
+  "notes": "The journal's Legends page now spells out how to catch each one: where, how deep, when, the weather or season, bait, hook and line."
 }
