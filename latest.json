@@ -1,7 +1,7 @@
 {
-  "version": "0.33.6",
-  "file": "game-0.33.6.html",
-  "sha256": "4e824c05de4419c0ddda971e5f2a178cc1f7ff1123601adecf054cc57a0912bb",
-  "signature": "9QmR6MErGSLAvzNgT0hoKkr1/Ycx+ASFJOacoYXPf7BzQeUsD91k8896aGiy6SBcb6kcc8c/s41EHJO9BpyUCw==",
-  "notes": "A big fish bolts from the boat twice at most now (and says so once). A brand new lawn flamingo. Pink and purple things keep their colours."
+  "version": "0.33.7",
+  "file": "game-0.33.7.html",
+  "sha256": "6ce0db45aeec919a827c09699ed726bbf149056c4869d3b30bd6ad4ec4ea979d",
+  "signature": "TyUIPvHQSFlMG+Ic0c9fTrjWHuwdDo1QETRsbovvttQN31UFDEvoxEzy5paUcumz8KfXrYGZuAhKzOnid1SdBA==",
+  "notes": "Shops: you're the right size next to Mae and the shelves, talk to Mae and Hal right at the counter, the aquarium opens up close (the old front room is gone), and a clear EXIT sign. Sea spare rods: lines you can see, and they come back to the side when you stop."
 }
