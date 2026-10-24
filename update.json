@@ -1,0 +1,12 @@
+{
+  "format": "folder",
+  "shell": 2,
+  "version": "0.39.0",
+  "file": "game-0.39.0.zip",
+  "parts": [
+    "game-0.39.0.zip.000"
+  ],
+  "sha256": "75c81024a593d763878fe921be141d34f01fc0048c16fca5b74622840662b90c",
+  "signature": "srk+MvhAsbMoFuI741ggVD4oEBcjqNsPEO7PCJFSNzStkprzotClZ7l+VpgU8s9aT6fatrQ8GcaFEgXVMXuGBA==",
+  "notes": "Grandpa's dock, the bait shack, the Trophy Cabin and Cap'n Hal's tackle shop are now 3D in first person, with the chair, radio, flag, plants and string lights on them. Every rod and reel part from the workbench now shows on your 3D rod and reel."
+}
